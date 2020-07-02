@@ -1,0 +1,6 @@
+C:\Users\hana\source\repos\BuildComp\BuildComp\obj\Debug\BuildComp.csprojAssemblyReference.cache
+C:\Users\hana\source\repos\BuildComp\BuildComp\bin\Debug\BuildComp.exe.config
+C:\Users\hana\source\repos\BuildComp\BuildComp\bin\Debug\BuildComp.exe
+C:\Users\hana\source\repos\BuildComp\BuildComp\bin\Debug\BuildComp.pdb
+C:\Users\hana\source\repos\BuildComp\BuildComp\obj\Debug\BuildComp.exe
+C:\Users\hana\source\repos\BuildComp\BuildComp\obj\Debug\BuildComp.pdb
